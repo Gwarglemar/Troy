@@ -1,6 +1,6 @@
 # Troy
 
-Currently in the initial planning stages, this will be a full Character Management Tool for Dungeons & Dragons. 
+Currently in the design & planning stages, this will be a full Character Management Tool for Dungeons & Dragons. 
 
 ## Why?
 
